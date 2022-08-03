@@ -1,0 +1,19 @@
+Locators list from page https://webdriver.io/docs/api/
+
+Introduction - [href="/docs/api"][class*="menu"]
+Expect - [href="/docs/api/expect-webdriverio"][class*="menu"]
+Protocols - //*[text()="Protocols"]
+browser - //*[text()="browser"]
+Docs - //a[text()="Docs"]
+Contribute - [class*="navbar_"][href*="con"]
+Examples - [href="#examples"][class*="hash"]
+GitHub - [href*="github"][target*="blank"][class*="navbar"]
+
+IN FOOTER:
+Docs - //div[text()="Docs"]
+Getting Started - //*[text()="Getting Started"]
+Help - //*[text()="Help"]
+Stack Overflow - //*[text()="Stack Overflow"]
+Slack - //*[text()="Slack"]
+Tidelift Subscription - //*[text()="Tidelift Subscription"]
+GitHub - //*[text()="GitHub"]
